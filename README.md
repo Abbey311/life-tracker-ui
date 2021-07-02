@@ -5,3 +5,4 @@ This repo stores the code for the React UI that powers the Rate My Setup applica
 ## Dev Setup
 
 Install the dependencies with `npm install` and run the application with `npm start`.
+# life-tracker-ui
