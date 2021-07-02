@@ -1,0 +1,11 @@
+.hero {
+    position: absolute;
+    right: 0%;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    width: 50%;
+    max-width: 50vw;
+    height: 400px;
+    margin-top: 10px;
+}
+
